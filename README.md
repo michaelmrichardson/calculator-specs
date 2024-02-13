@@ -12,16 +12,23 @@ developer or user documentation. For product issues, bugs, and feature requests 
 We welcome your contributions to the project, and we thank you for your interest in making Calculator
 better! We follow a
 [user-centered process for developing features](https://github.com/Microsoft/calculator/blob/master/docs/NewFeatureProcess.md).
-
-* **DO** provide feedback on **active pull requests**, which represent new features that are being
-  reviewed
-* **DO** provide feedback on spec documents in the `active` folder, which represent new features
-  that are being worked on
-* **DO NOT** provide feedback on spec documents in the `archive` folder since those features have
-  already been released
-* **DO NOT** submit pull requests that create new specs for ideas that do not have an associated
-  approved feature pitch tracked in [Microsoft/calculator](https://github.com/Microsoft/calculator).
-  To propose a new feature, please follow the Calculator
+adasdsadasdasmdhasjdkjsakhndjkasndnsankgvdsagfadf
+dfDa
+f'
+sd
+f
+sdf'sdf
+'ds
+fdsfds
+fdadsasf
+as
+fasfasfas
+fasfasf
+sf
+asf
+asf
+asfsaf
+ropose a new feature, please follow the Calculator
   [contribution process](https://github.com/Microsoft/calculator/blob/master/CONTRIBUTING.md)
 
 ### Workflow
@@ -30,8 +37,7 @@ better! We follow a
    [planning](https://github.com/Microsoft/calculator/projects/1). When features enter this stage,
    a new working branch in this repo will be created: `feature/<feature>`
 
-2. Create a new working branch off of that feature branch for your work in progress.  Create a new
-   directory for your spec under the `active` directory: `/active/<feature>`.
+2. ectory for your spec under the `active` directory: `/active/<feature>`.
 
 3. Write your spec following the [spec template](./spec_template.md), leveraging relative links when
    referencing images or other assets in the directory.  Rename your file as `README.md`.
